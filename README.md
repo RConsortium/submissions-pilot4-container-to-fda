@@ -1,6 +1,6 @@
 # R Submissions Pilot 4 ECTD Package
 
-2025-05-26T19:08:35+00:00
+2025-05-27T13:48:15+00:00
 
 > Do not include `README.md` and `.gitignore` files into the final
 > submission.
@@ -78,9 +78,8 @@ eCTD package:
                     │   ├── define.xml         # ADaM data define file
                     │   └── define2-0-0.xsl
                     └── programs
-                        ├── Dockerfile # Docker container build instructions
-                        ├── entrypoint.R # Utility R script to launch Shiny application in Docker
-                        ├── submissions-pilot2 # R code for Shiny application
+                        ├── Dockerfile.txt # Docker container build instructions
+                        └── r1pkg.txt
 
 Other files: (**Do not include in eCTD package**)
 
@@ -90,7 +89,7 @@ Other files: (**Do not include in eCTD package**)
 ## News
 
 The ECTD bundle and associated compiled application archive were last
-rendered on 2025-05-26T19:08:35+00:00 .
+rendered on 2025-05-27T13:48:15+00:00 .
 
 ## Questions
 
