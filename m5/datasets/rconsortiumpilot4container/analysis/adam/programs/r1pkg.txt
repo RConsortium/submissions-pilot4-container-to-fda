@@ -21913,6 +21913,32 @@ Content:
   917d200a5624e1fd701ed0753fdfa5c12e1b531346e0d065a1ea9c2afa8b4cf8bb86fb5bb9fafdf9fdf9fdf9dff8fc3fa51fcab800f20900
 
 Package: pilot2wrappers
+File: renv/settings.dcf
+Format: text
+Content:
+  bioconductor.version:
+  external.libraries:
+  ignored.packages:
+  package.dependency.fields: Imports, Depends, LinkingTo
+  r.version:
+  snapshot.type: implicit
+  use.cache: TRUE
+  vcs.ignore.cellar: FALSE
+  vcs.ignore.library: TRUE
+  vcs.ignore.local: TRUE
+
+Package: pilot2wrappers
+File: renv/.gitignore
+Format: text
+Content:
+  # cellar/
+  library/
+  local/
+  lock/
+  python/
+  staging/
+
+Package: pilot2wrappers
 File: dev/run_dev.R
 Format: text
 Content:
