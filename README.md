@@ -1,6 +1,6 @@
 # R Submissions Pilot 4 ECTD Package
 
-2025-06-13T03:53:12+00:00
+2025-06-13T04:01:39+00:00
 
 > Do not include `README.md` and `.gitignore` files into the final
 > submission.
@@ -34,21 +34,9 @@ page](https://www.r-consortium.org/projects/isc-working-groups).
 
 - Initial submission
 
-TBD
-
-## Run Shiny Application
-
-To run the Pilot 4 Shiny application using web-assembly, you can follow
-the steps described in the [ADRG
-document](https://rsubmission-draft.us-east-1.linodeobjects.com/adrg-quarto-pdf.pdf).
-A web (HTML) version of the ADRG is also available at
-<https://rpodcast.quarto.pub/pilot4-container-adrg/>.
-
 ## Folder Structure
 
 The folder is organized as a demo eCTD package following ICH guidance.
-
-**TODO**: Revise
 
 eCTD package:
 
@@ -89,9 +77,9 @@ Other files: (**Do not include in eCTD package**)
 ## News
 
 The ECTD bundle and associated compiled application archive were last
-rendered on 2025-06-13T03:53:12+00:00 .
+rendered on 2025-06-13T04:01:39+00:00 .
 
 ## Questions
 
 Report issues in
-<https://github.com/RConsortium/submissions-pilot4-container-to-fda/issues>
+<https://github.com/RConsortium/submissions-pilot4-container/issues>
